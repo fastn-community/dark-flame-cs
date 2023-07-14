@@ -24,6 +24,9 @@ logo: $assets.files.static.fastn-logo.svg
 subtitle: dark-flame-cs: color scheme
 colors: $colors-data
 types: $typo.types
+document-title: Dark Flame CS: fastn color scheme package
+document-description: Dark Flame CS: fastn color scheme package
+document-image: https://fastn.com/-/fastn.com/images/featured/cs/dark-flame-cs-dark.png
 
 -- cp.components-pallete:
 
