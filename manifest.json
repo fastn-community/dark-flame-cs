@@ -17,7 +17,7 @@
     },
     "colors.ftd": {
       "name": "colors.ftd",
-      "checksum": "7519157A3785A111CFCD127EF274E9B6F14A77DD3CAD767A02055252D702D6B4",
+      "checksum": "91723DEA489B5785F056EB38AA2FF85F7DF1E36C7ABD0365C3F01ED41F89F6EE",
       "size": 6552
     },
     "index.ftd": {
@@ -86,6 +86,6 @@
       "size": 1153
     }
   },
-  "zip_url": "https://github.com/fastn-community/dark-flame-cs/archive/b38287b77422b7d8b462eb56b685b040de788d7f.zip",
-  "checksum": "31E59FE182606847AA448A0D65CC40C8E79628A199C1F217EDF228BA55FA03A2"
+  "zip_url": "https://github.com/fastn-community/dark-flame-cs/archive/efe1865b41dd2bafe195031be8823a61c09d1458.zip",
+  "checksum": "B79A804952C5A24FFD13077A448EBDDBD261CF6ED126348CF193714F6F8F9FDE"
 }
