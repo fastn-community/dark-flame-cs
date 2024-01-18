@@ -74,8 +74,8 @@ light: #F3A063
 dark: #F3A063
 
 -- ftd.color cta-primary-text-:
-light: #ffffff
-dark: #000000
+light: #000000
+dark: #ffffff
 
 -- ftd.color cta-primary-text-disabled-:
 light: #f2a164
